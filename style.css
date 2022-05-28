@@ -10,10 +10,9 @@ body {
 
 .navbar {
     font-size: 18px;
-    background: linear-gradient(9deg, #c02c2c, #2cc05d, #962cc0, #c02c51, #2cb6c0, #c0aa2c);
     border-bottom: #615858 4px solid;
-    border-bottom-left-radius: 40px;
-    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
     padding-bottom: 10px;
 }
 

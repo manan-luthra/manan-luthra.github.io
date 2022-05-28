@@ -18,9 +18,9 @@
         <ul class="main-nav" id="main-nav">
             <li><a href="manan-luthra.github.io/index.md" class="nav-links">About Me</a></li>
             <li><a href="manan-luthra.github.io/edu.md" class="nav-links">Education</a></li>
-            <li><a href="https://github.com/manan-luthra/manan-luthra.github.io/blob/eb631814b213afd14c7bc94c55736ab2b134f8b7/projects.md" class="nav-links">Projects</a></li>
-            <li><a href="https://github.com/manan-luthra/manan-luthra.github.io/blob/e20a217abefbd2b2226f62415d817cbaf2a7d6c1/publications.md" class="nav-links">Publications</a></li>
-            <li><a href="https://github.com/manan-luthra/manan-luthra.github.io/blob/eb631814b213afd14c7bc94c55736ab2b134f8b7/contact.md" class="nav-links">Contact</a></li>
+            <li><a href="manan-luthra.github.io/projects.md" class="nav-links">Projects</a></li>
+            <li><a href="manan-luthra.github.io/blob/publications.md" class="nav-links">Publications</a></li>
+            <li><a href="manan-luthra.github.io/blob/eb631814b213afd14c7bc94c55736ab2b134f8b7/contact.md" class="nav-links">Contact</a></li>
         </ul>
     </nav>
     <script>

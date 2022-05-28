@@ -5,3 +5,16 @@
 [ Contact Info](/contact.md)
 
 ## EDUCATION
+
+### Masters of Science, Arizona State University 
+GPA: 4.0
+
+Courses: 
+>Fall 2021
+
+>Spring 2022
+
+
+### Bachelor of Technology, Amity Univeristy, India 
+GPA: 8.32
+

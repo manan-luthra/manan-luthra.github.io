@@ -7,7 +7,7 @@
 ## EDUCATION
 
 ### Masters of Science, Arizona State University | GPA: 4.0
-Robotics and Autonomous Systems (Systems Engineering)
+#### Robotics and Autonomous Systems (Systems Engineering)
 Courses: 
 >Fall 2021
 
@@ -15,7 +15,7 @@ Courses:
 
 
 ### Bachelor of Technology, Amity Univeristy, India | GPA: 8.32
-Electrical and Electronics Engineering 
+#### Electrical and Electronics Engineering 
 
 Achievements:
 > 

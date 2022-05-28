@@ -1,4 +1,4 @@
-[About Me](/about.md) 
+[About Me](/index.md) 
 [Education](/edu.md)
 [Projects](/projects.md)
 [Contact Info]

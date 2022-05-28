@@ -11,6 +11,7 @@ body {
 .navbar {
     font-size: 18px;
     border-bottom: #615858 4px solid;
+    background: #a9a9a9
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
     padding-bottom: 10px;

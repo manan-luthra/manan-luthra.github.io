@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nav bar</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
 </head>
 
 <body>
@@ -16,9 +13,7 @@
             <i class="material-icons">menu</i>
         </span>
         <!-- <div class=""> -->
-        <a href="#" class="logo"><img src="logo.jpg" alt="">
-            <p>Company Name</p>
-        </a>
+      
         <!-- </div> -->
         <ul class="main-nav" id="main-nav">
             <li><a href="#" class="nav-links">Home</a></li>

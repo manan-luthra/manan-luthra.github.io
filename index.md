@@ -1,3 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nav bar</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+
+<body>
+    <nav class="navbar">
+        <span class="toggle-nav" id="toggle-nav">
+            <i class="material-icons">menu</i>
+        </span>
+        <!-- <div class=""> -->
+        <a href="#" class="logo"><img src="logo.jpg" alt="">
+            <p>Company Name</p>
+        </a>
+        <!-- </div> -->
+        <ul class="main-nav" id="main-nav">
+            <li><a href="#" class="nav-links">Home</a></li>
+            <li><a href="#" class="nav-links">News</a></li>
+            <li><a href="#" class="nav-links">Conatct</a></li>
+            <li><a href="#" class="nav-links">About</a></li>
+        </ul>
+    </nav>
+    <script>
+        let mainNav = document.getElementById('main-nav');
+        let toggleNav = document.getElementById('toggle-nav');
+        toggleNav.addEventListener('click', function () {
+            mainNav.classList.toggle('active')
+        });
+    </script>
+</body>
+
+</html>
+
+
 [About Me](/index.md) 
 [Education](/edu.md)
 [Projects](/projects.md)
@@ -18,36 +59,4 @@ Syntax highlighted code block
 
 ```
 
-<html>
-<head>
-<style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
-
-
-</body>
-</html>

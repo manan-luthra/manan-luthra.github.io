@@ -1,6 +1,6 @@
 [About Me](/about.md) 
-[Education]
-[Projects]
+[Education](/edu.md)
+[Projects](/projects.md)
 [Contact Info]
 
 ## About me

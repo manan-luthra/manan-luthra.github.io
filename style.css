@@ -12,8 +12,7 @@ body {
     font-size: 18px;
     border-bottom: #615858 4px solid;
     background: #000000;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+    border-radius:20px;
     padding-bottom: 10px;
 }
 
@@ -54,7 +53,7 @@ body {
         display: flex;
         justify-content: space-between;
         padding-bottom: 0;
-        height: 70px;
+        height: 40px;
         align-items: center;
     }
     .toggle-nav {
@@ -70,8 +69,5 @@ body {
     }
     .nav-links {
         margin-left: 20px;
-    }
-    .logo {
-        margin-top: 0;
     }
 }

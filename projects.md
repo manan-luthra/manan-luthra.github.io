@@ -6,8 +6,8 @@
 
 ## PROJECTS
 
-[### 3D Printed Robotic Arm](/arm.md) 
+### [3D Printed Robotic Arm](/arm.md) 
 
-[### Origami Based Tessellation Actuation](/tess.md)
+### [Origami Based Tessellation Actuation](/tess.md)
 
-[### Breathing Sensory Device for Lung Transplants](/spir.md)
+### [Breathing Sensory Device for Lung Transplants](/spir.md)

@@ -12,3 +12,5 @@ Abstract:
 Key topics covered:
 
 Certificate:
+
+[Link to the publication](/)

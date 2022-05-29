@@ -5,3 +5,6 @@
 [ Contact Info](/contact.md)
 
 ## CONTACT
+
+### LinkedIn
+### Email

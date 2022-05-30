@@ -16,5 +16,5 @@ A digital spirometer is developed along with an application that introduces a ce
 ![image1](https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png)
 
 
-<video src="" controls="controls" style="max-width: 730px;">
+<video src="https://drive.google.com/file/d/1qlLISwjORcIjKpWBoqCaT51SFWSF0kDH/view?usp=sharing" controls="controls" style="max-width: 730px;">
 </video>

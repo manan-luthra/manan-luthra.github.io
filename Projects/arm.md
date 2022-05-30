@@ -28,8 +28,6 @@ TASK 3 Forward Kinematics and Inverse Kinematics
 >Used MATLAB to obtain the final Homogeneous Transformation matrix of the system
 ```
 
-![image](https://user-images.githubusercontent.com/105019328/171032499-01183eb3-ede1-409f-943f-354dd4edbd5e.png)
-
 ![image](https://user-images.githubusercontent.com/105019328/171033144-63075178-9b54-46a7-a6bf-bd1588a9b824.png)
 ![image](https://user-images.githubusercontent.com/105019328/171033154-b44a49b3-92f7-442a-a401-134930f70c06.png)
 ![image](https://user-images.githubusercontent.com/105019328/171033168-bbb7368c-b300-4401-a28e-818924ee3255.png)

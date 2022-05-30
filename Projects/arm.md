@@ -3,8 +3,8 @@
 Abtract
 ```
 Task 1: Building the robotic arm
->Reviewed the DIY Arduino Robotic Arm project on HowToMechatronics.
->I began by simulating the given STL files on the MakerBot Print software.
+>Reviewed the DIY Arduino Robotic Arm project on ![HowToMechatronics](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/).
+>Simulated the given STL files on the MakerBot Print software.
 >Configured the print settings to the best available option.
 ```
 
@@ -13,8 +13,9 @@ Assembling the Robotic Arm
 ![image](https://user-images.githubusercontent.com/105019328/170924824-d60bc1d1-2426-4052-af19-e9afc2b2f9cd.png)
 
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/105019328/171051598-3fc68b32-05cb-4136-8871-b798457c1697.gif)
 
-https://user-images.githubusercontent.com/105019328/170925384-0eae700a-6b27-4deb-b7d9-736fc9fb9755.mp4
+
 
 ```
 Task 2: Achieved the ability to control the robotic arm using a smartphone using the MIT App Inventor 

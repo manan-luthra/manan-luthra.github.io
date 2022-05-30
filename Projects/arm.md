@@ -1,8 +1,8 @@
-[About Me |](/manan-luthra.github.io/index.md) 
-[ Education |](/manan-luthra.github.io/edu.md)
-[ Projects |](manan-luthra.github.io/projects.md)
-[ Academic Publications |](manan-luthra.github.io/publications.md)
-[ Contact Info](manan-luthra.github.io/contact.md)
+[About Me |](/index.md) 
+[ Education |](/edu.md)
+[ Projects |](/projects.md)
+[ Academic Publications |](/publications.md)
+[ Contact Info](/contact.md)
 
 ## 3D Printed Robotic Arm
 

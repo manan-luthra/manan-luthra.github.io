@@ -15,6 +15,8 @@ Task 1: Building the robotic arm
 ```
 
 Assembling the Robotic Arm
+<img src="https://user-images.githubusercontent.com/105019328/170924759-6fa619c2-988d-4359-b50f-424b3dc01068.png)" width=300 align=center>
+
 ![image](https://user-images.githubusercontent.com/105019328/170924759-6fa619c2-988d-4359-b50f-424b3dc01068.png)
 ![image](https://user-images.githubusercontent.com/105019328/170924824-d60bc1d1-2426-4052-af19-e9afc2b2f9cd.png)
 

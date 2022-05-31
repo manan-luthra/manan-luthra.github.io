@@ -14,9 +14,7 @@ Key topics covered:
 
 Certificate:
 
-<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha">Test</a>
-  
-[Link to the publication](/https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha)
+<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha">Link to the publication</a>
 
 ## Sonic Fire Fighting System 
 ### 2020 IEEE International Conference on Computer Communication and Informatics – IEEE 
@@ -32,7 +30,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/https://ieeexplore.ieee.org/document/9104150)
+[Link to the publication]<a href="https://ieeexplore.ieee.org/document/9104150">Link to the publication</a>
 
 ## Trustworthiness of Artificial Intelligence 
 ### International Conference on Advanced Computing and Communication Systems – IEEE  

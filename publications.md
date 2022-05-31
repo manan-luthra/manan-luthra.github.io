@@ -14,6 +14,8 @@ Key topics covered:
 
 Certificate:
 
+<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha">Test</a>
+  
 [Link to the publication](/https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha)
 
 ## Sonic Fire Fighting System 

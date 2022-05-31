@@ -14,7 +14,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/)
+[Link to the publication](/https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha)
 
 ## Sonic Fire Fighting System 
 ### 2020 IEEE International Conference on Computer Communication and Informatics – IEEE 
@@ -24,7 +24,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/)
+[Link to the publication](/https://ieeexplore.ieee.org/document/9104150)
 
 ## Trustworthiness of Artificial Intelligence 
 ### International Conference on Advanced Computing and Communication Systems – IEEE  
@@ -34,7 +34,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/)
+[Link to the publication](/https://ieeexplore.ieee.org/document/9074237)
 
 ## 1 
 ###   
@@ -46,7 +46,7 @@ Certificate:
 
 [Link to the publication](/)
 
-## 2
+## Review on Implementing Smart Water Grid for Smart Cities in India: Challenges and Solutions
 ### 
 Abstract:
 
@@ -54,4 +54,4 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/)
+[Link to the publication](/https://ieeexplore.ieee.org/document/8728485)

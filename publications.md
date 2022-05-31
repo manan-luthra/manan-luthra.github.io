@@ -30,7 +30,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication]<a href="https://ieeexplore.ieee.org/document/9104150">Link to the publication</a>
+<a href="https://ieeexplore.ieee.org/document/9104150">Link to the publication</a>
 
 ## Trustworthiness of Artificial Intelligence 
 ### International Conference on Advanced Computing and Communication Systems – IEEE  
@@ -47,7 +47,7 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/https://ieeexplore.ieee.org/document/9074237)
+<a href="https://ieeexplore.ieee.org/document/9074237">Link to Publication</a>
 
 ## 1 
 ###   
@@ -72,4 +72,4 @@ Key topics covered:
 
 Certificate:
 
-[Link to the publication](/https://ieeexplore.ieee.org/document/8728485)
+<a href="https://ieeexplore.ieee.org/document/8728485">Link to Publication</a>

@@ -9,8 +9,13 @@
 ## Stewart Platform: The 6 DOF Parallel Manipulator 
 ### 3rd International Conference on Intelligent Circuits and Systems – Taylor & Francis Group (2021)
 Abstract:
+This paper deals with a specialized parallel manipulator having six degrees of freedom, commonly known as the Stewart platform. It shows the different prototypes that already exist, their different applications and their acceptance in the industrial world. A comparison between serial and parallel manipulators has also been drawn. Apart from this, the inverse kinematics of the parallel manipulator has been studied briefly.
 
 Key topics covered:
+- Components of a Stewart platform
+- Major Applications 
+- Kinematics (Forward and Inverse)
+- Control 
 
 Certificate:
 

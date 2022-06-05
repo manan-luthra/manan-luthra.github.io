@@ -34,6 +34,9 @@ Below is a diagram of how the points are defined for the whole robot assembley. 
 
 ![image](https://user-images.githubusercontent.com/105019328/172067903-231cc1a3-6c00-4ac3-bb31-5f566645bb0f.png)
 
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/105019328/172069223-1d6f75e3-ae3c-49de-8da6-d0b207d904cc.gif)
+
+
 
 We are modeling the beams that make up the legs as ridgid links as our expirements showed that they are rigid untill failure due to buckling. This will not affect our locamtion strategy as we did not plan for link compliance to store energy during locomotion.
 

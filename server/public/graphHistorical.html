@@ -24,11 +24,11 @@ function start(){
 function updateData(){
   var from = new Date().getTime();
   if(duration.value==10){
-	 var to = new Date().getTime()+600000;}
+	 var to = new Date().getTime()-600000;}
   else if(duration.value==30){
-	 var to = new Date().getTime()+1800000;}
+	 var to = new Date().getTime()-1800000;}
   else if(duration.value==60){
-	 var to = new Date().getTime()+3600000;}
+	 var to = new Date().getTime()-3600000;}
  // var from = new Date().getTime()-3600000;
   
 	var url = "./getData?from=" + from + "&to=" + to;

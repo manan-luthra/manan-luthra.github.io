@@ -29,7 +29,9 @@ function updateData(){
 // 	 var from = new Date().getTime()-1800000;}
 //   else if(duration.value==60){
 // 	 var from = new Date().getTime()-3600000;}
-  var from = new Date (document.getElementById("datetimeSelect").value).getTime() - new Date(document.getElementById("duration").value).getTime();	
+	a=new Date(document.getElementById("datetimeSelect").value).getTime();
+	b=new Date(document.getElementById("duration").value).getTime();
+  var from = a-b;	
   var to = new Date().getTime();
  // var from = new Date().getTime()-3600000;
   

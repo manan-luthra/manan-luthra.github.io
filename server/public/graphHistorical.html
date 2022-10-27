@@ -23,15 +23,15 @@ function start(){
 
 function updateData(){
   
-//   if(duration.value==10){
-// 	 var from = new Date().getTime()-600000;}
-//   else if(duration.value==30){
-// 	 var from = new Date().getTime()-1800000;}
-//   else if(duration.value==60){
-// 	 var from = new Date().getTime()-3600000;}
-  var a=new Date(document.getElementById("datetimeSelect").value).getTime();
-  var b=new Date(document.getElementById("duration").value).getTime();
-  var from = a-b;	
+  if(duration.value==10){
+	 var from = new Date(document.getElementById("datetimeSelect").value).getTime()-600000;}
+  else if(duration.value==30){
+	 var from = new Date(document.getElementById("datetimeSelect").value).getTime()-1800000;}
+  else if(duration.value==60){
+	 var from = new Date(document.getElementById("datetimeSelect").value).getTime()-3600000;}
+//   var a=new Date(document.getElementById("datetimeSelect").value).getTime();
+//   var b=new Date(document.getElementById("duration").value).getTime();
+//   var from = a-b;	
   var to = new Date (document.getElementById("datetimeSelect").value).getTime();
  // var from = new Date().getTime()-3600000;
   

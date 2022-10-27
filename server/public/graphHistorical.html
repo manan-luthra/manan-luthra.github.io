@@ -22,7 +22,13 @@ function start(){
 }
 
 function updateData(){
-  var from = new Date().getTime()-600000;
+  if(duration==10){
+	  var from = new Date().getTime()-600000;}
+  else if(duration==30){
+	  var from = new Date().getTime()-1800000;}
+  else if(duration==60){
+	  var from = new Date().getTime()-3600000;}
+  
   var to = new Date().getTime();
 	var url = "./getData?from=" + from + "&to=" + to;
 	var callback = function(data){

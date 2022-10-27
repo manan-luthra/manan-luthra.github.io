@@ -31,8 +31,8 @@ function updateData(){
 // 	 var from = new Date().getTime()-3600000;}
 	a=new Date(document.getElementById("datetimeSelect").value).getTime();
 	b=new Date(document.getElementById("duration").value).getTime();
-  var from = a-b;	
-  var to = new Date (document.getElementById("datetimeSelect").value).getTime();
+  var to = a-b;	
+  var from = new Date (document.getElementById("datetimeSelect").value).getTime();
  // var from = new Date().getTime()-3600000;
   
 	var url = "./getData?from=" + from + "&to=" + to;

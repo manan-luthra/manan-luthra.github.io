@@ -18,8 +18,8 @@ Assembling the Robotic Arm
 
 <img src="https://user-images.githubusercontent.com/105019328/170924759-6fa619c2-988d-4359-b50f-424b3dc01068.png" width=500 align=center>
 
-<img src="https://user-images.githubusercontent.com/105019328/170924824-d60bc1d1-2426-4052-af19-e9afc2b2f9cd.png" width=300 align=center>
-<br>
+<img src="https://user-images.githubusercontent.com/105019328/170924824-d60bc1d1-2426-4052-af19-e9afc2b2f9cd.png" width=300 align=center margin-bottom= 10px>
+
 <img src="https://user-images.githubusercontent.com/105019328/171051598-3fc68b32-05cb-4136-8871-b798457c1697.gif" alt="gif" width =300 height=400>
 
 

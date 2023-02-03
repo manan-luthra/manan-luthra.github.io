@@ -9,11 +9,17 @@
 ### Masters of Science, Arizona State University | GPA: 4.0
 #### Robotics and Autonomous Systems (Systems Engineering)
 Courses: 
->Fall 2021
+
+>Spring 2023
 >```
->EGR 550 Mechatronic Systems 
->EGR 598 Topic: Robotic Systems I
->MAE 501 Linear Algebra in Engineering 
+>EGR 593 Applied Project
+>```
+
+>Fall 2022
+>```
+>AME 598 Topic: Programming for the Internet of Things
+>EGR 525 Lean Systems 
+>MAE 598 Topic: Multi-Robot Systems 
 >```
 
 >Spring 2022
@@ -23,8 +29,19 @@ Courses:
 >EGR 557 Foldable Robotics 
 >```
 
+>Fall 2021
+>```
+>EGR 550 Mechatronic Systems 
+>EGR 598 Topic: Robotic Systems I
+>MAE 501 Linear Algebra in Engineering 
+>```
+
+
+
 ### Bachelor of Technology, Amity Univeristy, India | GPA: 8.32
 #### Electrical and Electronics Engineering 
 
 Achievements:
-> 
+>>```
+>Best Researcher Award (Performance in academic based contribution)
+>```

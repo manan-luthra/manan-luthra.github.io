@@ -29,7 +29,7 @@ Assembling the Robotic Arm
 Task 2: Achieved the ability to control the robotic arm using a smartphone using the MIT App Inventor 
 ```
 
-<img src="https://user-images.githubusercontent.com/105019328/171032190-a31b9aaa-fe43-4645-b4f7-cfd89cad8964.png" width=500 align=center>
+<img src="https://user-images.githubusercontent.com/105019328/171032190-a31b9aaa-fe43-4645-b4f7-cfd89cad8964.png" width=700 align=center>
 
 ```
 TASK 3 Forward Kinematics and Inverse Kinematics

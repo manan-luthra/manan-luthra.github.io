@@ -6,8 +6,14 @@
 
 ## PROJECTS
 
-### [3D Printed Robotic Arm](Projects/arm.md) 
+### [Smart Pest/Insect Detection System](Projects/pest.md) 
+
+### [Breathing Sensory Device for Lung Transplants](Projects/spir.md)
 
 ### [Origami Based Tessellation Actuation](Projects/tess.md)
 
-### [Breathing Sensory Device for Lung Transplants](Projects/spir.md)
+### [3D Printed Robotic Arm](Projects/arm.md) 
+
+
+
+

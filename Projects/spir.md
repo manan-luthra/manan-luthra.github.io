@@ -15,6 +15,7 @@ Clinical Relevance: Spirometry is a breathing test that measures the amount of a
 The housing of the components is prototyped using additive manufacturing technology. The material used to prototype the casing is polylactic acid (PLA). The print has 0.1mm layer height with the top and bottom layers being 0.4mm in thickness. A triangular infill pattern was used to maximize structural strength at 40 percent infill.
 
 ![image11](https://user-images.githubusercontent.com/105019328/171053055-456172e3-ef08-4bb0-a4b7-3720348c7f5f.png)
+![image1](https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png)
 
 
 
@@ -34,9 +35,9 @@ and the Box Collider functions from Unity were utilized. Multiple layers of back
 
 ![image5](https://user-images.githubusercontent.com/105019328/171053072-c5921f69-882f-45d8-b385-9b6e04763977.png)
 ![image2](https://user-images.githubusercontent.com/105019328/171053076-61e33c17-f37b-44db-a378-f62b1f8ff116.png)
-![image1](https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png)
 
 
+### Check out this video:
 <video src="https://drive.google.com/file/d/1qlLISwjORcIjKpWBoqCaT51SFWSF0kDH/view?usp=sharing" controls="controls" style="max-width: 730px;">
 </video>
 

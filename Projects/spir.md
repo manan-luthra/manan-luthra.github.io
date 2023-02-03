@@ -15,7 +15,7 @@ Clinical Relevance: Spirometry is a breathing test that measures the amount of a
 The housing of the components is prototyped using additive manufacturing technology. The material used to prototype the casing is polylactic acid (PLA). The print has 0.1mm layer height with the top and bottom layers being 0.4mm in thickness. A triangular infill pattern was used to maximize structural strength at 40 percent infill.
 
 <img src="https://user-images.githubusercontent.com/105019328/171053055-456172e3-ef08-4bb0-a4b7-3720348c7f5f.png" width="475" height="315">
-<img src="https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png" width="475" height="315" style="text-align:right;">
+<img src="https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png" width="475" height="400" style="text-align:right;">
 
 
 
@@ -27,7 +27,7 @@ The housing of the components is prototyped using additive manufacturing technol
 ### System Architecture
 The architecture, as depicted below, is set up so that the ESP32S checks for Wi-Fi pairing when the device is turned on. It assesses the request and connects to a nearby Wi-Fi network. It starts accepting input from the pressure sensor once the serial connection is established. The sensor values decrease when the user inhales from the spirometer. These Serial values are processed and sent to an asynchronous web server, which is then integrated into the project's gamification section.
 
-<img src="https://user-images.githubusercontent.com/105019328/171053062-a649a865-1992-49eb-8a80-fa5f20d43944.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/105019328/171053062-a649a865-1992-49eb-8a80-fa5f20d43944.png" width="700" height="700">
 
 
 ### Gamification

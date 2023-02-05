@@ -18,7 +18,7 @@ Key topics covered:
 - Control 
 
 Certificate:
-<img src="https://user-images.githubusercontent.com/105019328/216848401-a5262b31-17c6-4a6c-8330-c9ef232c9d57.png" width="700" height="400">
+<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="400">
 
 <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha">Link to the publication</a>
 

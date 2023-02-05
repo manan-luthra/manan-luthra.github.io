@@ -40,60 +40,34 @@ Camera resolution: 2 megapixels <br />
 (Note: The PIR sensor has a deep sleep issue)
 
 ## Detection using a pretrained model
-Setting up Ubuntu for Computer Vision
-1. Make sure you already have Ubuntu installed (Check out other resources for training YOLO on Windows)
-2. Follow the steps on https://pjreddie.com/darknet/install/ to install Darknet, OpenCV and CUDA (in case you want GPU computation)
-3. Follow the steps on https://pjreddie.com/darknet/yolo/ to test Darknet using a pretrained model
-4. Use the Google Open Image Dataset (https://storage.googleapis.com/openimages/web/index.html) to download images for class "Insects"
-5. Go to the Darknet folder 
-    Darknet->Data
-    Create a new folder "obj" 
-6. Use the OIDv4 Downloader from the github repo (https://github.com/theAIGuysCode/OIDv4_ToolKit.git)
-    Run the code in cmd:
-    python main.py downloader --classes Insect --type_csv train --limit 1000
-    (This will combine the images and the csv files in a single folder )
-    Copy these images in darknet->data->obj
-7. Change the name of class OIDv4Toolkit->Classes.txt to "Insects"
-8. Create the custom config file
-    Go to darknet->cfg->yolov3.cfg
+Steps done:
+1. Set up Ubuntu for Computer Vision
+2. Installed Darknet, OpenCV and CUDA (for GPU computation)
+3. Tested Darknet using a pretrained model
+4. Used the Google Open Image Dataset (https://storage.googleapis.com/openimages/web/index.html) to download images for class "Insects"
+6. Combined the images and the csv files in a single folder using the OIDv4 Downloader from the github repo (https://github.com/theAIGuysCode/OIDv4_ToolKit.git)
+8. Created a custom config file
     For training, set batch and subdivision to 64
-    Change height and width to 420
+    Changed height and width to 420
     max_batches = 2000* no. of classes (4000 minimum)
     steps = 80% of max batches, 90% of max batches <br />
     
     ![Screenshot 2022-12-06 142611](https://user-images.githubusercontent.com/105019328/206026636-b8281bc6-3a91-476e-9fc8-5af42b720830.jpg)
 
-    
-    Look for yolo layers and change the number of classes to 1 
-    Also change the one convolutional layer above the yolo layer. Change filter to (class+5)*3=18
+  Updated the number of classes to 1 
+    Changed filter to (class+5)*3=18
     Set all random=0
-9. Next, we need to create .txt file for all the image dataset. 
-    Use the generatetrain.py to do so (github link: https://github.com/theAIGuysCode/YoloGenerateTrainingFile.git)
+9. Next, created .txt file for all the image dataset. 
     Run this in cmd:
     python generate_train.py
-10. Check darknet->data->train.txt
-11. Execute the following command in cmd to train your data:
-    cmd darknet
-    /darknet detector train data/obj.data cfg/yolov3.cfg darknet53.conv.74
 
     (Training might take hours)
 
-12. Once the training is complete, use the darknet detector to test random images 
-    Run the following command in cmd:
-    /darknet detector test/obj.data cfg/yolov3.cfg backup/yolov3_final.weights pest.jpg
+12. Once the training was complete, used the darknet detector to test random images 
 
 13. Once the prediction pops up, it's time for comiling the code for ESP32 on Arduino IDE
 
 ## Executing the ESP32 code on Arduino IDE
-1. Open the .ino file provided in the repo
-2. Make sure connect the correct COM port and Dev module for ESP 
-3. Enable PSRAM and set storage to HUGE <br />
-![Screenshot 2022-12-06 140623](https://user-images.githubusercontent.com/105019328/206023121-50a0df8c-837b-44f7-a771-cadee9c211df.jpg)
-
-4. Change the SSID and Password in the code <br />
-![Screenshot 2022-12-06 140602](https://user-images.githubusercontent.com/105019328/206022962-3b4ec1d2-a76a-4612-83a4-60ca1d272604.jpg)
-
-5. Compile and upload the code
 
 
 ## Set up a Google Drive API 

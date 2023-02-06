@@ -41,6 +41,11 @@ Leg 3: AGH  <br>
 Leg 4: AIJ <br>
 Leg tips are always the letter that comes later in aphebetical order. A and B are points on the body.
 
+## Tessellated leg design
+<img src="https://user-images.githubusercontent.com/105019328/216862691-cf6e7ac2-5306-44ae-84a6-d55ff7cecc62.jpg" height= "375" width= "500" >
+<img src="https://user-images.githubusercontent.com/105019328/216862699-5d7735fc-ba8f-41b7-9b0a-c169e66eabfd.jpg" height= "375" width= "500" >
+<img src="https://user-images.githubusercontent.com/105019328/216862705-3f212155-597f-41fe-8a01-df5c4517ac91.jpg" height= "375" width= "500" >
+
 ## Parameter Identification 
 
 1. Buckling Test
@@ -78,5 +83,11 @@ We selected the frame length of the video to be evaluated by placing the black m
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/105019328/172069120-0a11d94f-c907-44f0-a5ed-476f82b324ec.gif)
 
+## Final Prototype
+<img src="https://user-images.githubusercontent.com/105019328/216860184-d3f63f5c-d1ec-4865-912a-466dd23d0620.jpg" height= "375" width= "500" >
+<img src="https://user-images.githubusercontent.com/105019328/216860221-1164e13f-68de-442e-a107-8f5619f3015c.jpg" height= "375" width= "500" >
+
+## Origami Leg Movement to avoid obstacles:
+<img src="https://user-images.githubusercontent.com/105019328/216863000-6ee5a128-41ec-444c-9b22-1001932d42ae.gif">
 
 

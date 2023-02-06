@@ -42,9 +42,9 @@ Leg 4: AIJ <br>
 Leg tips are always the letter that comes later in aphebetical order. A and B are points on the body.
 
 ## Tessellated leg design
-<img src="https://user-images.githubusercontent.com/105019328/216862691-cf6e7ac2-5306-44ae-84a6-d55ff7cecc62.jpg" height= "375" width= "500" >
-<img src="https://user-images.githubusercontent.com/105019328/216862699-5d7735fc-ba8f-41b7-9b0a-c169e66eabfd.jpg" height= "375" width= "500" >
-<img src="https://user-images.githubusercontent.com/105019328/216862705-3f212155-597f-41fe-8a01-df5c4517ac91.jpg" height= "375" width= "500" >
+<img src="https://user-images.githubusercontent.com/105019328/216862691-cf6e7ac2-5306-44ae-84a6-d55ff7cecc62.jpg" height= "375" width= "650" >
+<img src="https://user-images.githubusercontent.com/105019328/216862699-5d7735fc-ba8f-41b7-9b0a-c169e66eabfd.jpg" height= "375" width= "650" >
+<img src="https://user-images.githubusercontent.com/105019328/216862705-3f212155-597f-41fe-8a01-df5c4517ac91.jpg" height= "375" width= "650" >
 
 ## Parameter Identification 
 

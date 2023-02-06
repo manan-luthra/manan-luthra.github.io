@@ -7,4 +7,7 @@
 ## CONTACT
 
 ### LinkedIn
+https://www.linkedin.com/in/mananluthra/
+
 ### Email
+manan894@gmail.com

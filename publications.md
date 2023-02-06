@@ -17,7 +17,7 @@ Key topics covered:
 - Kinematics (Forward and Inverse)
 - Control 
 
-Certificate: <br>
+Certificate: <br />
 <img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
 
 <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003129103-86/stewart-platform-manan-luthra-sinha">Link to the publication</a>
@@ -34,8 +34,8 @@ Key topics covered:
 - Experimental Prototype 
 - Limitations 
 
-Certificate:
-
+Certificate: <br />
+<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
 <a href="https://ieeexplore.ieee.org/document/9104150">Link to the publication</a>
 
 ## Trustworthiness of Artificial Intelligence 
@@ -51,8 +51,8 @@ Key topics covered:
 - Realization of a Trustworthy AI
 - Assessing Trustworthy AI
 
-Certificate:
-
+Certificate: <br />
+<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
 <a href="https://ieeexplore.ieee.org/document/9074237">Link to Publication</a>
 
 ## 1 
@@ -61,8 +61,8 @@ Abstract:
 
 Key topics covered:
 
-Certificate:
-
+Certificate: <br />
+<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
 [Link to the publication](/)
 
 ## Review on Implementing Smart Water Grid for Smart Cities in India: Challenges and Solutions
@@ -76,6 +76,6 @@ Key topics covered:
 - Measures to conrol water scarcity
 - Challenges hindering in establishment of smart grid system in India
 
-Certificate:
-
+Certificate: <br />
+<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
 <a href="https://ieeexplore.ieee.org/document/8728485">Link to Publication</a>

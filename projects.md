@@ -6,13 +6,13 @@
 
 ## PROJECTS
 
-### [Smart Pest/Insect Detection System](Projects/pest.md) 
+### [Smart Pest/Insect Detection System](/pest.md) 
 
-### [Breathing Sensory Device for Lung Transplants](Projects/spir.md)
+### [Breathing Sensory Device for Lung Transplants](/spir.md)
 
-### [Origami Based Tessellation Actuation](Projects/tess.md)
+### [Origami Based Tessellation Actuation](/tess.md)
 
-### [3D Printed Robotic Arm](Projects/arm.md) 
+### [3D Printed Robotic Arm](/arm.md) 
 
 
 

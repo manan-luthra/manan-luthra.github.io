@@ -47,7 +47,7 @@ Leg tips are always the letter that comes later in aphebetical order. A and B ar
 
 This experiment aimed at determining whether our system buckles due to axial load. When assessing and designing structures, there are usually two main concerns: (1) the structure's ability to support a given load without experiencing excessive stress, and (2) the structure's ability to support a given load without incurring unacceptable deformation. In this experiment, the element to be tested is a single layer (laser cut) tesselation of the prototype. A setup was created using LEGOs which allowed us to put load on the leg and perform the test as shown in the image below.
 
-<img src="https://user-images.githubusercontent.com/105019328/172068985-0161f03d-9bfa-4135-b944-1cb5a22a66b4.png" height= "375" width= "500" >
+<img src="https://user-images.githubusercontent.com/105019328/172068985-0161f03d-9bfa-4135-b944-1cb5a22a66b4.png" height= "600" width= "500" >
 
 
 Here is the top base for the framed system which works like an axial slider:
@@ -56,7 +56,7 @@ Here is the top base for the framed system which works like an axial slider:
 <img src="https://user-images.githubusercontent.com/105019328/172068999-20191fbc-d576-4390-a446-cc4bf5ad01dd.png" height= "600" width= "500" >
 
 The dimensions of the laser cut leg: 80.6mm x 22.5mm, thickness 3mm. <br>
-On adding weight to the top base plate, we were able to deduce the maximum weight beyond which the leg buckles. The maximum buckling weight came out to be 423.1g 
+On adding weight to the top base plate, we were able to deduce the maximum weight beyond which the leg buckles. The maximum buckling weight came out to be 423.1g <br>
 <img src="https://user-images.githubusercontent.com/105019328/172069011-359581a0-1135-4ff2-9508-d68385d6556d.png" height= "375" width= "500" >
 
 2. Mass and Inertia Properties 

@@ -1,8 +1,8 @@
-[About Me |](index.md) 
-[ Education |](edu.md)
-[ Projects |](projects.md)
-[ Academic Publications |](publications.md)
-[ Contact Info](contact.md)
+[About Me |](/index.md) 
+[ Projects |](/projects.md)
+[ Education |](/edu.md)
+[ Academic Publications |](/publications.md)
+[ Contact Info](/contact.md)
 
 # PUBLICATIONS
 

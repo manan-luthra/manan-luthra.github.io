@@ -1,8 +1,9 @@
-[About Me |](home/index.md) 
-[ Education |](home/edu.md)
-[ Projects |](home/projects.md)
-[ Academic Publications |](home/publications.md)
-[ Contact Info](home/contact.md)
+[About Me |](index.md) 
+[ Education |](edu.md)
+[ Projects |](projects.md)
+[ Academic Publications |](publications.md)
+[ Contact Info](contact.md)
+
 ## Breathing Sensory Feedback Device for Lung Transplants
 
 **Abstract:** <br>

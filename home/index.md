@@ -1,4 +1,4 @@
-[About Me |](homeindex.md) 
+[About Me |](home/index.md) 
 [ Education |](home/edu.md)
 [ Projects |](home/projects.md)
 [ Academic Publications |](home/publications.md)

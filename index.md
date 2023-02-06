@@ -1,4 +1,4 @@
-[About Me |](/index.md) 
+[About Me |](manan-luthra.github.io/index.md) 
 [ Education |](/edu.md)
 [ Projects |](/projects.md)
 [ Academic Publications |](/publications.md)

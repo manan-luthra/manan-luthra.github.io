@@ -1,3 +1,10 @@
+[About Me |](/index.md) 
+[ Education |](/edu.md)
+[ Projects |](/projects.md)
+[ Academic Publications |](/publications.md)
+[ Contact Info](/contact.md)
+
+
 # Smart Insect/Pest Detection System 
 Pests are a huge threat to agriculture. According to a study by the Food and Agriculture Organization of the United Nations, pests destroy up to 40 percent of global crops annually. Each year, plant diseases cost the global economy over $220 billion, and invasive insects at least $70 billion. They tend to be the biggest threat to crop production. Early pest detection can reduce the loss in yield up to 40 percent. 
 

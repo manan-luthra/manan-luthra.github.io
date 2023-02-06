@@ -6,18 +6,17 @@
 
 ## Breathing Sensory Feedback Device for Lung Transplants
 
-Abstract: 
+**Abstract:** <br>
 A digital spirometer is developed along with an application that introduces a certain level of gamification to the otherwise tedious practice. The immediate objective of this product is to engage the patients through gamification during their breathing sets and consequently improve their lung strength. The spirometer connects wirelessly with the app via Bluetooth. An illustration is shown on the mobile screen as per the patient’s lung output. 
 
-Clinical Relevance: Spirometry is a breathing test that measures the amount of air that is inhaled or exhaled from the lungs. It also measures how easily and quickly this process can be carried out. A spirometry test can help diagnose COPD and asthma or check lung function before surgery. It also supports a patient in improving their lung muscles post-surgery to prevent the onset of pneumonia. The ability to practice spirometry is dependent on several factors. Post-surgery, the patient may experience exhaustion due to medications, chest pain while breathing, and a lack of motivation to exhaust themselves further with exercises. Since spirometry is a tedious and monotonous activity, patients often lose zeal while carrying out their prescribed repetitions. In order to motivate patients to achieve their daily repetitions, an upgrade to the traditional spirometers is proposed in this project.
+**Clinical Relevance:** <br>
+Spirometry is a breathing test that measures the amount of air that is inhaled or exhaled from the lungs. It also measures how easily and quickly this process can be carried out. A spirometry test can help diagnose COPD and asthma or check lung function before surgery. It also supports a patient in improving their lung muscles post-surgery to prevent the onset of pneumonia. The ability to practice spirometry is dependent on several factors. Post-surgery, the patient may experience exhaustion due to medications, chest pain while breathing, and a lack of motivation to exhaust themselves further with exercises. Since spirometry is a tedious and monotonous activity, patients often lose zeal while carrying out their prescribed repetitions. In order to motivate patients to achieve their daily repetitions, an upgrade to the traditional spirometers is proposed in this project.
 
 ### System Design
 The housing of the components is prototyped using additive manufacturing technology. The material used to prototype the casing is polylactic acid (PLA). The print has 0.1mm layer height with the top and bottom layers being 0.4mm in thickness. A triangular infill pattern was used to maximize structural strength at 40 percent infill.
 
 <img src="https://user-images.githubusercontent.com/105019328/171053055-456172e3-ef08-4bb0-a4b7-3720348c7f5f.png" width="475" height="315">
 <img src="https://user-images.githubusercontent.com/105019328/171053086-e65a3204-d522-442b-9ad1-f5c2b1f2eabc.png" width="475" height="400" style="text-align:right;">
-
-
 
 
 ### Components Used:

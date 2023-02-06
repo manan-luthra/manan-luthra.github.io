@@ -90,5 +90,5 @@ We selected the frame length of the video to be evaluated by placing the black m
 ## Origami Leg Movement to avoid obstacles:
 <img src="https://user-images.githubusercontent.com/105019328/216863000-6ee5a128-41ec-444c-9b22-1001932d42ae.gif">
 
-(_Note:clideo.com was used to convert the above video to slo-mo_)
+(_Note: clideo.com was used to convert the above video to slo-mo_)
 

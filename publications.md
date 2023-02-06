@@ -52,7 +52,7 @@ Key topics covered:
 - Assessing Trustworthy AI
 
 Certificate: <br />
-<img src="https://user-images.githubusercontent.com/105019328/216848604-493d1405-c368-4a4d-a806-e59277933f89.png" width="700" height="475" padding=10px>
+<img src="https://user-images.githubusercontent.com/105019328/216854528-19a6f3ec-0e35-44c7-bae4-97c53ffb3f77.jpg" width="475" height="700" padding=10px>
 <a href="https://ieeexplore.ieee.org/document/9074237">Link to Publication</a>
 
 ## Design and Implementation of Smart Tracking Ambulance System
@@ -62,7 +62,7 @@ Abstract:
 Key topics covered:
 
 Certificate: <br />
-<img src="hhttps://user-images.githubusercontent.com/105019328/216854205-c56264ef-70d2-45e8-966b-362bd442624e.jpg" width="700" height="475" padding=10px>
+<img src="https://user-images.githubusercontent.com/105019328/216854205-c56264ef-70d2-45e8-966b-362bd442624e.jpg" width="700" height="475" padding=10px>
 [Link to the publication](/)
 
 ## Review on Implementing Smart Water Grid for Smart Cities in India: Challenges and Solutions
@@ -77,5 +77,5 @@ Key topics covered:
 - Challenges hindering in establishment of smart grid system in India
 
 Certificate: <br />
-<img src="https://user-images.githubusercontent.com/105019328/216854207-3bd2a734-6a0b-42c5-be4f-f5a6bbc725ec.jpg" width="700" height="475" padding=10px>
+<img src="https://user-images.githubusercontent.com/105019328/216854207-3bd2a734-6a0b-42c5-be4f-f5a6bbc725ec.jpg" width="475" height="700" padding=10px>
 <a href="https://ieeexplore.ieee.org/document/8728485">Link to Publication</a>

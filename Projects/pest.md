@@ -1,8 +1,8 @@
-[About Me |](/index.md) 
-[ Education |](/edu.md)
-[ Projects |](/projects.md)
-[ Academic Publications |](/publications.md)
-[ Contact Info](/contact.md)
+[About Me |](homeindex.md) 
+[ Education |](home/edu.md)
+[ Projects |](home/projects.md)
+[ Academic Publications |](home/publications.md)
+[ Contact Info](home/contact.md)
 
 
 # Smart Insect/Pest Detection System 

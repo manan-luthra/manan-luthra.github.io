@@ -24,14 +24,14 @@ Our robot is built of 4 identical legs. The diagram below shows how we specify s
 
 ## System Dinamics 
 
-Below is a diagram of how different points are defined for the whole robot assembley. Note the robot body that is defined as a beam from point A to point B is free from the orign marked in the lower left corner. This diagram is a side veiw of the robot and BEF and BCD legs on the real robot are sperated in the z direction.
+Below is a diagram of how different points are defined for the whole robot assembly. Note the robot body that is defined as a beam from point A to point B is free from the orign marked in the lower left corner. This diagram is a side veiw of the robot and BEF and BCD legs on the real robot are sperated in the z direction.
 
 <img src="https://user-images.githubusercontent.com/105019328/172067903-231cc1a3-6c00-4ac3-bb31-5f566645bb0f.png" height= "375" width= "500" >
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/105019328/172069223-1d6f75e3-ae3c-49de-8da6-d0b207d904cc.gif)
 
 
-We modelled the beams that make up the legs as rigid links (our expirements showed they are rigid until failure due to buckling). This will not affect our locamtion strategy as we did not plan for link compliance to store energy during locomotion.
+We modelled the beams that make up the legs as rigid links (our expirements showed they are rigid until failure due to buckling). This will not affect our locomotion strategy as we did not plan for link compliance to store energy during locomotion.
 
 **Naming conventions:** 
 Legs: <br>
@@ -66,7 +66,7 @@ On adding weight to the top base plate, we were able to deduce the maximum weigh
 
 2. Mass and Inertia Properties 
 
-This was a colaborative effort amongst the team members. We took the computed mass and inertia values, and modify our dynamics code to reach optimization. We considered experimenting on a single leg rather than the complete system and modified the values to obtain the results.
+This was a collaborative effort amongst the team members. We took the computed mass and inertia values, and modify our dynamics code to reach optimization. We considered experimenting on a single leg rather than the complete system and modified the values to obtain the results.
 
 
 3. Setup and Analysis of Damping setup using Tracker Physics software 
@@ -75,7 +75,7 @@ Tracker is a software application used in physics education to visualize and ana
 <img src="https://user-images.githubusercontent.com/105019328/172069039-26800a2f-a5cc-449a-a6b9-72821ebd7854.png" height= "375" width= "500" >
 
 
-The above pictures show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two Weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at mulitple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slo motion and was evaluated using the Tracker (Physics) software.
+The above images show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two Weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at mulitple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slo motion and was evaluated using the Tracker (Physics) software.
 
 ![image](https://user-images.githubusercontent.com/105019328/172069044-273061a5-0c7e-403e-ae7b-eb52ee846345.png)
 

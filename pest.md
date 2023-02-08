@@ -44,56 +44,43 @@ Camera resolution: 2 megapixels <br />
 #define HREF_GPIO_NUM       27 <br />
 #define PCLK_GPIO_NUM       25 <br />
 
+![image](https://user-images.githubusercontent.com/105019328/217409309-11c08ced-aa3e-4882-8bd0-e9b107194d1b.png)
+
 (Note: The PIR sensor has a deep sleep issue)
 
-## Detection using a pretrained model
-Steps done:
-1. Set up Ubuntu for Computer Vision
-2. Installed Darknet, OpenCV and CUDA (for GPU computation)
-3. Tested Darknet using a pretrained model
-4. Used the Google Open Image Dataset (https://storage.googleapis.com/openimages/web/index.html) to download images for class "Insects"
-6. Combined the images and the csv files in a single folder using the OIDv4 Downloader from the github repo (https://github.com/theAIGuysCode/OIDv4_ToolKit.git)
-8. Created a custom config file
-    For training, set batch and subdivision to 64
-    Changed height and width to 420
-    max_batches = 2000* no. of classes (4000 minimum)
-    steps = 80% of max batches, 90% of max batches <br />
+## Training the YOLO model with custom images
+-Trained YOLOv3 (a real time object detection system) on a custom dataset of insect images using Darknet (an open source neural network framework). 
+-Used the Google Open Images Dataset v7 for downloading the image dataset for Insects. These images dataset had a .jpg file and a .txt file with the same name. Each line of the .txt file was of the format:
+<object-class> <x_center> <y_center> <width> <height>
+-For using the YOLO detector, I converted the bounding box annotations to the required YOLO format. 
+
+![image](https://user-images.githubusercontent.com/105019328/217408901-2094b4fb-8964-4d38-89d0-c68b57623677.png)
     
-    ![Screenshot 2022-12-06 142611](https://user-images.githubusercontent.com/105019328/206026636-b8281bc6-3a91-476e-9fc8-5af42b720830.jpg)
-
-  Updated the number of classes to 1 
-    Changed filter to (class+5)*3=18
-    Set all random=0
-9. Next, created .txt file for all the image dataset. 
-    Run this in cmd:
-    python generate_train.py
-
-    (Training might take hours)
-
-12. Once the training was complete, used the darknet detector to test random images 
-
-13. Once the prediction pops up, it's time for comiling the code for ESP32 on Arduino IDE
-
-## Executing the ESP32 code on Arduino IDE
+In order to run the darknet executable file, I installed the dependencies such as CUDA, CUDNN, OpenCV. I updated the config file and changed the filters and classes along with other configuration data. For training purposes, I made the following changes:
+batch=64
+Subdivisions = 64
+Max_batches = 4000
+steps= 1600, 1800
 
 
-## Set up a Google Drive API 
-1. Follow the steps in the link to set up a Google Drive API (https://how2electronics.com/how-to-send-esp32-cam-captured-image-to-google-drive/)
-2. Make sure to enable the API and download the json file (store it where the original python file is)
-3. Copy the location of the drive folder in which you want to save the images 
+I also changed the line filters in the convolutional layers before the YOLO layer to: filters=(num_classes + 5)*3. So for 1 class, filters=18
 
 
-## OpenCV 
-1. Open Visual Studio Code
-2. Use the python code provided in the repo
-3. Once you upload the code to the ESP32, open the serial port and copy the server URL 
-4. Paste that in the "url=" codeline in the python code provided
-5. Replace the path to the Google Drive folder, the weight file, the config file and the labels file <br />
-![Screenshot 2022-12-06 140243](https://user-images.githubusercontent.com/105019328/206022347-9a52d914-f089-4009-890f-ddad313c63c8.jpg)
+After downloading the pretrained weights, I started the training. The weights were saved for every 1000 iterations. 
 
-
-Run the code and the images should update in your Google Drive Folder 
-
+    
+## Model testing
 <img src="https://user-images.githubusercontent.com/105019328/216864662-800f9512-6581-4fae-9379-a2af66407f2f.png">
 
+    
+## Advantage of using YOLOv3 over classifier based systems:
+-It looks at the whole image at test time so its predictions are informed by global context in the image. 
+-It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN
+    
+## OpenCV and ESP32 integration
+![image](https://user-images.githubusercontent.com/105019328/217409188-5f5b1c32-fc98-47e8-af40-d972d30470e6.png)
+
+
+## Future works:
+Using the neural network to classify the images of crop diseases and insect pests
 

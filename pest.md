@@ -54,6 +54,9 @@ Camera resolution: 2 megapixels <br />
 <pre> 
 <object-class> <x_center> <y_center> <width> <height>
 </pre>
+<code>
+&lt;width&gt;
+</code>
 - For using the YOLO detector, I converted the bounding box annotations to the required YOLO format. 
 
 ![image](https://user-images.githubusercontent.com/105019328/217408901-2094b4fb-8964-4d38-89d0-c68b57623677.png)

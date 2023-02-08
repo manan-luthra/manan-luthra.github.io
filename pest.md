@@ -51,11 +51,8 @@ Camera resolution: 2 megapixels <br />
 ## Training the YOLO model with custom images
 - Trained YOLOv3 (a real time object detection system) on a custom dataset of insect images using Darknet (an open source neural network framework). 
 - Used the Google Open Images Dataset v7 for downloading the image dataset for Insects. These images dataset had a .jpg file and a .txt file with the same name. Each line of the .txt file was of the format: <br>
-<pre> 
-<object-class> <x_center> <y_center> <width> <height>
-</pre>
 <code>
-&lt;width&gt;
+<object-class> <x_center> <y_center> &lt;width&gt; &lt;height&gt;
 </code>
 - For using the YOLO detector, I converted the bounding box annotations to the required YOLO format. 
 

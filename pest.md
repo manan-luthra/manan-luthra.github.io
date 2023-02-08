@@ -81,5 +81,5 @@ steps= 1600, 1800
 
 
 ## Future works:
-Using the neural network to classify the images of crop diseases and insect pests
+Using neural network to classify the images of crop diseases and insect pests
 

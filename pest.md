@@ -49,24 +49,22 @@ Camera resolution: 2 megapixels <br />
 (Note: The PIR sensor has a deep sleep issue)
 
 ## Training the YOLO model with custom images
--Trained YOLOv3 (a real time object detection system) on a custom dataset of insect images using Darknet (an open source neural network framework). 
--Used the Google Open Images Dataset v7 for downloading the image dataset for Insects. These images dataset had a .jpg file and a .txt file with the same name. Each line of the .txt file was of the format:
+- Trained YOLOv3 (a real time object detection system) on a custom dataset of insect images using Darknet (an open source neural network framework). 
+- Used the Google Open Images Dataset v7 for downloading the image dataset for Insects. These images dataset had a .jpg file and a .txt file with the same name. Each line of the .txt file was of the format:
 <object-class> <x_center> <y_center> <width> <height>
--For using the YOLO detector, I converted the bounding box annotations to the required YOLO format. 
+- For using the YOLO detector, I converted the bounding box annotations to the required YOLO format. 
 
 ![image](https://user-images.githubusercontent.com/105019328/217408901-2094b4fb-8964-4d38-89d0-c68b57623677.png)
     
-In order to run the darknet executable file, I installed the dependencies such as CUDA, CUDNN, OpenCV. I updated the config file and changed the filters and classes along with other configuration data. For training purposes, I made the following changes:
-batch=64
-Subdivisions = 64
-Max_batches = 4000
+- Installed dependencies such as CUDA, CUDNN, OpenCV, in order to run the darknet executable file. Updated the config file and changed the filters and classes along with other configuration data. 
+- For training purposes, the following changes were made:<br>
+batch=64 <br>
+Subdivisions = 64 <br>
+Max_batches = 4000 <br>
 steps= 1600, 1800
 
-
-I also changed the line filters in the convolutional layers before the YOLO layer to: filters=(num_classes + 5)*3. So for 1 class, filters=18
-
-
-After downloading the pretrained weights, I started the training. The weights were saved for every 1000 iterations. 
+- Further, updated the line filters in the convolutional layers before the YOLO layer to: filters=(num_classes + 5)*3. Since, number of classes=1, filters=18
+- After downloading the pretrained weights, I started the training. The weights were saved for every 1000 iterations. 
 
     
 ## Model testing
@@ -74,8 +72,8 @@ After downloading the pretrained weights, I started the training. The weights we
 
     
 ## Advantage of using YOLOv3 over classifier based systems:
--It looks at the whole image at test time so its predictions are informed by global context in the image. 
--It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN
+- It looks at the whole image at test time so its predictions are informed by global context in the image. 
+- It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN
     
 ## OpenCV and ESP32 integration
 ![image](https://user-images.githubusercontent.com/105019328/217409188-5f5b1c32-fc98-47e8-af40-d972d30470e6.png)

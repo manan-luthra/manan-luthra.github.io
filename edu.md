@@ -6,7 +6,7 @@
 
 ## EDUCATION
 
-### Masters of Science, Arizona State University | GPA: 4.0
+### Master of Science, Arizona State University | GPA: 4.0
 #### Robotics and Autonomous Systems (Systems Engineering)
 Courses: 
 

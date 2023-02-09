@@ -6,7 +6,7 @@
 
 ## 3D Printed Robotic Arm
 
-Abtract
+### Abtract
 ```
 Task 1: Building the robotic arm
 >Reviewed the DIY Arduino Robotic Arm project on ![HowToMechatronics](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/).
@@ -14,7 +14,7 @@ Task 1: Building the robotic arm
 >Configured the print settings to the best available option.
 ```
 
-Assembling the Robotic Arm
+### Assembling the Robotic Arm
 
 <img src="https://user-images.githubusercontent.com/105019328/171051598-3fc68b32-05cb-4136-8871-b798457c1697.gif" alt="gif" width =300 height=400>
 

@@ -18,13 +18,13 @@ Some origami tessellations such as the ‘snake skin’ tessellation exhibit an 
 
 ## System Kinematics 
 
-Our robot is built of 4 identical legs. The diagram below shows how we specify several points, reference frames, and distances for one leg. The end stop is a conceptual model for the behavior of our leg design. The leg is made of a tessallation that is easily deformed in one direction but reaches a singularity when deformed in the oposite direction preventing futher motion in that direction. The leg joint is modeled with a spring and damper so it mimics the tessallation joint.
+Our robot is built of 4 identical legs. The diagram below shows how we specify several points, reference frames, and distances for one leg. The end stop is a conceptual model for the behavior of our leg design. The leg is made of a tessellation that is easily deformed in one direction but reaches a singularity when deformed in the opposite direction preventing further motion in that direction. The leg joint is modeled with a spring and damper so it mimics the tessellation joint.
 
 <img src="https://user-images.githubusercontent.com/105019328/172065357-3af0c983-7bb4-4a4c-9dcf-35c8499c4469.png" height= "375" width= "500" >
 
-## System Dinamics 
+## System Dynamics 
 
-Below is a diagram of how different points are defined for the whole robot assembly. Note the robot body that is defined as a beam from point A to point B is free from the orign marked in the lower left corner. This diagram is a side veiw of the robot and BEF and BCD legs on the real robot are sperated in the z direction.
+Below is a diagram of how different points are defined for the whole robot assembly. Note the robot body that is defined as a beam from point A to point B is free from the origin marked in the lower left corner. This diagram is a side view of the robot and BEF and BCD legs on the real robot are separated in the z direction.
 
 <img src="https://user-images.githubusercontent.com/105019328/172067903-231cc1a3-6c00-4ac3-bb31-5f566645bb0f.png" height= "375" width= "500" >
 
@@ -39,7 +39,7 @@ Leg 1: BCD <br>
 Leg 2: BEF  <br>
 Leg 3: AGH  <br>
 Leg 4: AIJ <br>
-Leg tips are always the letter that comes later in aphebetical order. A and B are points on the body.
+Leg tips are always the letter that comes later in alphabetical order. A and B are points on the body.
 
 ## Tessellated leg design
 <img src="https://user-images.githubusercontent.com/105019328/216862691-cf6e7ac2-5306-44ae-84a6-d55ff7cecc62.jpg" height= "375" width= "650" >
@@ -50,7 +50,7 @@ Leg tips are always the letter that comes later in aphebetical order. A and B ar
 
 1. Buckling Test
 
-This experiment aimed at determining whether our system buckles due to axial load. When assessing and designing structures, there are usually two main concerns: (1) the structure's ability to support a given load without experiencing excessive stress, and (2) the structure's ability to support a given load without incurring unacceptable deformation. In this experiment, the element to be tested is a single layer (laser cut) tesselation of the prototype. A setup was created using LEGOs which allowed us to put load on the leg and perform the test as shown in the image below.
+This experiment aimed at determining whether our system buckles due to axial load. When assessing and designing structures, there are usually two main concerns: (1) the structure's ability to support a given load without experiencing excessive stress, and (2) the structure's ability to support a given load without incurring unacceptable deformation. In this experiment, the element to be tested is a single layer (laser cut) tessellation of the prototype. A setup was created using LEGOs which allowed us to put load on the leg and perform the test as shown in the image below.
 
 <img src="https://user-images.githubusercontent.com/105019328/172068985-0161f03d-9bfa-4135-b944-1cb5a22a66b4.png" height= "600" width= "500" >
 
@@ -66,8 +66,7 @@ On adding weight to the top base plate, we were able to deduce the maximum weigh
 
 2. Mass and Inertia Properties 
 
-This was a collaborative effort amongst the team members. We took the computed mass and inertia values, and modify our dynamics code to reach optimization. We considered experimenting on a single leg rather than the complete system and modified the values to obtain the results.
-
+This was a collaborative effort amongst the team members. We took the computed mass and inertia values, and modified our dynamics code to reach optimization. We considered experimenting on a single leg rather than the complete system and modified the values to obtain the results.
 
 3. Setup and Analysis of Damping setup using Tracker Physics software 
 
@@ -75,7 +74,7 @@ Tracker is a software application used in physics education to visualize and ana
 <img src="https://user-images.githubusercontent.com/105019328/172069039-26800a2f-a5cc-449a-a6b9-72821ebd7854.png" height= "375" width= "500" >
 
 
-The above images show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two Weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at mulitple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slo motion and was evaluated using the Tracker (Physics) software.
+The above images show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at multiple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slow motion and was evaluated using the Tracker (Physics) software.
 
 ![image](https://user-images.githubusercontent.com/105019328/172069044-273061a5-0c7e-403e-ae7b-eb52ee846345.png)
 

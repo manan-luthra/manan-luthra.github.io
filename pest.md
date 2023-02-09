@@ -73,13 +73,13 @@ steps= 1600, 1800
 
     
 ## Advantage of using YOLOv3 over classifier based systems:
-- It looks at the whole image at test time so its predictions are informed by global context in the image. 
-- It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN
+- It looks at the whole image at test time so its predictions are informed by global context in the image.
+- It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
     
 ## OpenCV and ESP32 integration
 ![image](https://user-images.githubusercontent.com/105019328/217409188-5f5b1c32-fc98-47e8-af40-d972d30470e6.png)
 
 
 ## Future works:
-Using neural network to classify the images of crop diseases and insect pests
+Using neural network to classify the images of crop diseases and insect pests.
 

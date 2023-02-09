@@ -4,7 +4,7 @@
 [ Academic Publications |](/publications.md)
 [ Contact Info](/contact.md)
 
-# PUBLICATIONS
+## PUBLICATIONS
 
 ## Stewart Platform: The 6 DOF Parallel Manipulator 
 ### 3rd International Conference on Intelligent Circuits and Systems – Taylor & Francis Group (2021)

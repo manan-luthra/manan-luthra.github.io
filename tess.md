@@ -4,7 +4,7 @@
 [ Academic Publications |](/publications.md)
 [ Contact Info](/contact.md)
 
-## Origami based Tessellation Actuation 
+## Origami-based Tessellation Actuation 
 
 Research Question
 

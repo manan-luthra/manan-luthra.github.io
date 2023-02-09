@@ -73,7 +73,7 @@ Tracker is a software application used in physics education to visualize and ana
 <img src="https://user-images.githubusercontent.com/105019328/172069039-26800a2f-a5cc-449a-a6b9-72821ebd7854.png" height= "375" width= "500" >
 
 
-The above images show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at multiple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slow motion and was evaluated using the Tracker (Physics) software.
+The above images show the experimental setup used in this test. Vice grips were used to hold the prototype leg. Two weights of 45g each were attached to the bottom of the leg to promote damping. Blue markers were attached at multiple positions for high visibility. Two reference points were taken at the back of the setup. A video was taken in slow motion and was evaluated using the Tracker software.
 
 ![image](https://user-images.githubusercontent.com/105019328/172069044-273061a5-0c7e-403e-ae7b-eb52ee846345.png)
 

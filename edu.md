@@ -43,5 +43,5 @@ Courses:
 
 Achievements:
 >>```
->Best Researcher Award (Performance in academic based contribution)
+>Best Researcher Award (Performance in academic-based contribution)
 >```

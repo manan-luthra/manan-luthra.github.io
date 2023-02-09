@@ -31,7 +31,7 @@ Below is a diagram of how different points are defined for the whole robot assem
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/105019328/172069223-1d6f75e3-ae3c-49de-8da6-d0b207d904cc.gif)
 
 
-We modelled the beams that make up the legs as rigid links (our expirements showed they are rigid until failure due to buckling). This will not affect our locomotion strategy as we did not plan for link compliance to store energy during locomotion.
+We modelled the beams that make up the legs as rigid links (our experiments showed they are rigid until failure due to buckling). This will not affect our locomotion strategy as we did not plan for link compliance to store energy during locomotion.
 
 **Naming conventions:** 
 Legs: <br>
@@ -39,16 +39,15 @@ Leg 1: BCD <br>
 Leg 2: BEF  <br>
 Leg 3: AGH  <br>
 Leg 4: AIJ <br>
-Leg tips are always the letter that comes later in alphabetical order. A and B are points on the body.
 
-## Tessellated leg design
+## Tessellated Leg Design
 <img src="https://user-images.githubusercontent.com/105019328/216862691-cf6e7ac2-5306-44ae-84a6-d55ff7cecc62.jpg" height= "375" width= "650" >
 <img src="https://user-images.githubusercontent.com/105019328/216862699-5d7735fc-ba8f-41b7-9b0a-c169e66eabfd.jpg" height= "375" width= "650" >
 <img src="https://user-images.githubusercontent.com/105019328/216862705-3f212155-597f-41fe-8a01-df5c4517ac91.jpg" height= "375" width= "650" >
 
 ## Parameter Identification 
 
-1. Buckling Test
+- Buckling Test
 
 This experiment aimed at determining whether our system buckles due to axial load. When assessing and designing structures, there are usually two main concerns: (1) the structure's ability to support a given load without experiencing excessive stress, and (2) the structure's ability to support a given load without incurring unacceptable deformation. In this experiment, the element to be tested is a single layer (laser cut) tessellation of the prototype. A setup was created using LEGOs which allowed us to put load on the leg and perform the test as shown in the image below.
 
@@ -60,15 +59,15 @@ Here is the top base for the framed system which works like an axial slider:
 
 <img src="https://user-images.githubusercontent.com/105019328/172068999-20191fbc-d576-4390-a446-cc4bf5ad01dd.png" height= "600" width= "500" >
 
-The dimensions of the laser cut leg: 80.6mm x 22.5mm, thickness 3mm. <br>
+The dimensions of the laser cut leg: 80.6mm x 22.5mm, thickness 3mm. <br> <br>
 On adding weight to the top base plate, we were able to deduce the maximum weight beyond which the leg buckles. The maximum buckling weight came out to be 423.1g <br>
 <img src="https://user-images.githubusercontent.com/105019328/172069011-359581a0-1135-4ff2-9508-d68385d6556d.png" height= "375" width= "500" >
 
-2. Mass and Inertia Properties 
+- Mass and Inertia Properties 
 
 This was a collaborative effort amongst the team members. We took the computed mass and inertia values, and modified our dynamics code to reach optimization. We considered experimenting on a single leg rather than the complete system and modified the values to obtain the results.
 
-3. Setup and Analysis of Damping setup using Tracker Physics software 
+- Setup and Analysis of Damping setup using Tracker Physics software 
 
 Tracker is a software application used in physics education to visualize and analyze motion. It is designed to help understand and explore the concepts of motion, velocity, and acceleration. It allows users to track the motion of an object and to perform measurements such as position, velocity, and acceleration. This software can be used to analyze real-world data or to create simulations of physical systems. 
 <img src="https://user-images.githubusercontent.com/105019328/172069039-26800a2f-a5cc-449a-a6b9-72821ebd7854.png" height= "375" width= "500" >

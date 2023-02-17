@@ -11,5 +11,5 @@
 An Electrical and Electronics Engineer currently pursuing a master's degree in Robotics and Autonomous Systems (Systems Engineering). Constantly seeking opportunities to expand my knowledge and skills. Completed coursework in subjects such as Robotics, Mechatronics, Electronics, and the Internet of Things (IoT). Eager to apply learnings in a professional setting, and open to new challenges and experiences in the field of engineering.
 
 <button style="background-color: black; color: white; border-radius: 10px;">
-  <a href="https://github.com/manan-luthra/manan-luthra.github.io/files/10771928/Manan_Luthra.Resume.pdf" style="color: white; text-decoration:none;"> Resume </a>
+  <a href="https://github.com/manan-luthra/manan-luthra.github.io/files/10771928/Manan_Luthra.Resume.pdf" style="color: white; text-decoration:none; font-weight:bold;"> Resume </a>
 </button>

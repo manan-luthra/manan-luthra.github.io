@@ -12,5 +12,4 @@ An Electrical and Electronics Engineer currently pursuing a master's degree in R
 
 <button style="background-color: black; color: white; border-radius: 10px;">
   <a href="https://github.com/manan-luthra/manan-luthra.github.io/files/10771928/Manan_Luthra.Resume.pdf" style="color: white; text-decoration:none;"> Resume </a>
-**[Resume](https://github.com/manan-luthra/manan-luthra.github.io/files/10771928/Manan_Luthra.Resume.pdf)**
 </button>

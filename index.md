@@ -10,3 +10,4 @@
 
 An Electrical and Electronics Engineer currently pursuing a master's degree in Robotics and Autonomous Systems (Systems Engineering). Constantly seeking opportunities to expand my knowledge and skills. Completed coursework in subjects such as Robotics, Mechatronics, Electronics, and the Internet of Things (IoT). Eager to apply learnings in a professional setting, and open to new challenges and experiences in the field of engineering.
 
+**Resume**

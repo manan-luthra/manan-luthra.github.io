@@ -6,6 +6,29 @@
 
 ## PUBLICATIONS
 
+## Aerial robot swarms: a review 
+### IAES International Journal of Robotics and Automation (IJRA) (2023)
+Abstract:
+
+
+Key topics covered:
+- Classification of unmanned aerial vehicles 
+- Dynamics and Flying Mechanics
+- State Estimation and localization 
+- Applications 
+- Pattern Formation Behaviors of Swarm
+
+## Design and Development of a Low-Cost Spirometer with Interactive Gamification 
+### 2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)	
+Abstract:
+
+
+Key topics covered:
+- Systems Design 
+- System Architecture 
+- Gamification
+
+
 ## Stewart Platform: The 6 DOF Parallel Manipulator 
 ### 3rd International Conference on Intelligent Circuits and Systems – Taylor & Francis Group (2021)
 Abstract:

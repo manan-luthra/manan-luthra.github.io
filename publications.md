@@ -9,7 +9,7 @@
 ## Aerial robot swarms: a review 
 ### IAES International Journal of Robotics and Automation (IJRA) (2023)
 Abstract:
-
+This review examines current research on aerial robot swarms, their applications, system architecture, impact on society, dynamics, flying mechanisms, and algorithms for control. It also discusses current trends, including swarm pattern formation behavior.
 
 Key topics covered:
 - Classification of unmanned aerial vehicles 
@@ -18,9 +18,12 @@ Key topics covered:
 - Applications 
 - Pattern Formation Behaviors of Swarm
 
+<a href="https://www.scribd.com/document/638218489/Aerial-robot-swarms-a-review">Link to the publication</a>
+
 ## Design and Development of a Low-Cost Spirometer with Interactive Gamification 
 ### 2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)	
 Abstract:
+This paper presents the design and development of a low-cost spirometer that incorporates interactive gamification. The aim of the device is to increase patient engagement in spirometry testing, which is a commonly used diagnostic tool for respiratory diseases.
 
 
 Key topics covered:
@@ -28,6 +31,7 @@ Key topics covered:
 - System Architecture 
 - Gamification
 
+<a href="https://ieeexplore.ieee.org/document/10089329">Link to the publication</a>
 
 ## Stewart Platform: The 6 DOF Parallel Manipulator 
 ### 3rd International Conference on Intelligent Circuits and Systems – Taylor & Francis Group (2021)

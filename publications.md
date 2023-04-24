@@ -18,7 +18,7 @@ Key topics covered:
 - Applications 
 - Pattern Formation Behaviors of Swarm
 
-<a href="https://www.scribd.com/document/638218489/Aerial-robot-swarms-a-review">Link to the publication</a>
+<a href="https://ijra.iaescore.com/index.php/IJRA/article/view/20532">Link to the publication</a>
 
 ## Design and Development of a Low-Cost Spirometer with Interactive Gamification 
 ### 2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)	
